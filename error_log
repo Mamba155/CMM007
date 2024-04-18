@@ -1,0 +1,38 @@
+[08-Apr-2024 20:49:01 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:49:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:49:01 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:49:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:50:10 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:50:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:50:10 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:50:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 48
+[08-Apr-2024 20:52:21 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:52:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:52:21 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:52:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:53:32 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:53:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:53:32 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:53:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:54:20 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:54:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:54:20 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[08-Apr-2024 20:54:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipeone.afolabisalawu.site/recipes.php on line 47
+[17-Apr-2024 02:40:37 UTC] PHP Warning:  Undefined variable $con in /home/intepkvx/foodrecipe.intelliccloud.site/recipes.php on line 9
+[17-Apr-2024 02:40:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/intepkvx/foodrecipe.intelliccloud.site/recipes.php:9
+Stack trace:
+#0 /home/intepkvx/foodrecipe.intelliccloud.site/recipes.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/foodrecipe.intelliccloud.site/recipes.php on line 9
+[17-Apr-2024 02:40:48 UTC] PHP Warning:  Undefined variable $con in /home/intepkvx/foodrecipe.intelliccloud.site/recipe-categories.php on line 5
+[17-Apr-2024 02:40:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/intepkvx/foodrecipe.intelliccloud.site/recipe-categories.php:5
+Stack trace:
+#0 /home/intepkvx/foodrecipe.intelliccloud.site/recipe-categories.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/foodrecipe.intelliccloud.site/recipe-categories.php on line 5
+[17-Apr-2024 03:02:28 UTC] PHP Warning:  Undefined variable $recipe_query in /home/intepkvx/foodrecipe.intelliccloud.site/index.php on line 124
+[17-Apr-2024 03:02:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/intepkvx/foodrecipe.intelliccloud.site/index.php:124
+Stack trace:
+#0 /home/intepkvx/foodrecipe.intelliccloud.site/index.php(124): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/intepkvx/foodrecipe.intelliccloud.site/index.php on line 124
